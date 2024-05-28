@@ -7,10 +7,10 @@
 (The datasets are hosted on both Google Drive and BaiduPan)
 | Download Link | Description | 
 |:-----: |:-----: |
-| [Google Drive]() / [Baidu Netdisk]() () | A total of 12,500 pairs for training and 500 pairs for testing. |
+| Google Drive / Baidu Netdisk | A total of 12,500 pairs for training and 500 pairs for testing. |
 
 ### Evaluation
-The PSNR, SSIM and MSE results are computed by using this [Python Code](https://github.com/cschenxiang/UDR-Mixer/blob/main/evaluation.py).
+The PSNR, SSIM and MSE results are computed by using this [Python Code](https://github.com/cschenxiang/UDR-Mixer/tree/main/metrics).
 
 ### Visual Results
 | Method | Download Link | 
