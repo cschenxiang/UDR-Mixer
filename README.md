@@ -15,15 +15,15 @@ The PSNR, SSIM and MSE results are computed by using this [Python Code](https://
 ### Visual Results
 | Method | Download Link | 
 |:-----: |:-----: |
-| LPNet | [Google Drive]() / [Baidu Netdisk]() () |
-| JORDER-E | [Google Drive]() / [Baidu Netdisk]() () |
-| RCDNet | [Google Drive]() / [Baidu Netdisk]() () |
-| SPDNet | [Google Drive]() / [Baidu Netdisk]() () |
-| IDT | [Google Drive]() / [Baidu Netdisk]() () |
-| Restormer | [Google Drive]() / [Baidu Netdisk]() () |
-| DRSformer | [Google Drive]() / [Baidu Netdisk]() () |
-| UDR-S2Former | [Google Drive]() / [Baidu Netdisk]() () |
-| UDR-Mixer | [Google Drive]() / [Baidu Netdisk]() () |
+| LPNet | Google Drive / Baidu Netdisk |
+| JORDER-E | Google Drive / Baidu Netdisk |
+| RCDNet | Google Drive / Baidu Netdisk |
+| SPDNet | Google Drive / Baidu Netdisk |
+| IDT | Google Drive / Baidu Netdisk |
+| Restormer | Google Drive / Baidu Netdisk |
+| DRSformer | Google Drive / Baidu Netdisk |
+| UDR-S2Former | Google Drive / Baidu Netdisk |
+| UDR-Mixer | Google Drive / Baidu Netdisk |
 
 ### Citation
 If you find this project useful in your research, please consider citing:
