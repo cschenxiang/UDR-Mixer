@@ -2,7 +2,7 @@
 > Hongming Chen, Xiang Chen, Chen Wu, Zhuoran Zheng, Jinshan Pan, and Xianping Fu <br>
 
 ---
-## 🔑 Setup
+###  Setup
 Type the command:
 ```
 pip install -r requirements.txt
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 | Google Drive / [Baidu Netdisk](https://pan.baidu.com/s/1Kao-OjWNlgg2Jl0Jtl7e5Q?pwd=spfi) | A total of 12,500 pairs for training and 500 pairs for testing. |
 
 
-## 🛠️ Training and Testing
+### Training and Testing
 1. Please download the corresponding datasets and put them in the folder `data/`.
 2. Follow the instructions below to begin training our model.
 ```
