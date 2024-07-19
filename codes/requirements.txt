@@ -1,0 +1,4 @@
+torch==2.0.0
+lightning==1.9.4
+scikit-image==0.17.2
+scikit-video
