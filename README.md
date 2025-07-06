@@ -1,15 +1,14 @@
 ## 📖 Towards Ultra-High-Definition Image Deraining: A Benchmark and An Efficient Method
 > Hongming Chen, Xiang Chen, Chen Wu, Zhuoran Zheng, Jinshan Pan, and Xianping Fu <br>
 
+Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: https://lowlevelcv.com/
+
 ---
 ###  Setup
 Type the command:
 ```
 pip install -r requirements.txt
 ```
-
-Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: https://lowlevelcv.com/
-
 
 ### 4K-Rain13k Dataset
 ![Example](figures/overview.png)
